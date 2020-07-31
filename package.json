@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "private": false,
   "main": "lean-text.js",
-  "homepage": "https://github.com/agbales/lean-text",
+  "homepage": "https://github.com/agbales/lean-text-docs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agbales/lean-text.git"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
